@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @LimonKafa
+- 👀 I’m interested in cars
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: i like joke
+
+<!---
